@@ -1,0 +1,1 @@
+# karakter_toplama_6bit
